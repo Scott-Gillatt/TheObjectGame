@@ -1,6 +1,6 @@
 # TheObjectGame
 
-TO-DO:
+TO-DO list provided in class:
 The Slap Object Game - Part 1
 
 Objective:
